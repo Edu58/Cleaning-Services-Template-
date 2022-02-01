@@ -6,6 +6,7 @@ Cleaning services website template
 ### Summary
 This is a clone of a cleaning services website template i saw on themeforest. It is made using HTML, CSS and Vanilla Javascript. NO frameworks. It is fully mobile responsive.
 
+![cleaning services](cleaning.png)
 
 ### License
 Copyright 2021 Edwin Karimi
